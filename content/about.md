@@ -4,7 +4,7 @@ layout: layouts/base.njk
 <div class="about-section">
   <h1>About Me</h1>
   <img src="biophoto.png" alt="a cartoonized image of Shayne McGregor" style="width:300px">
-  <p>Some text about who I am and what I do.</p>
+  <p> I do.</p>
   <p>Resize the browser window to see that this page is responsive by the way.</p>
 </div>
 
