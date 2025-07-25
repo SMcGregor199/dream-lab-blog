@@ -1,11 +1,11 @@
 export default {
-	title: "Dream Lab Blog",
-	url: "https://makeademic.github.io/dream-lab-blog/",
+	title: "Shayne's website",
+	url: "https://github.com/SMcGregor199/dream-lab-blog",
 	language: "en",
-	description: "I am writing about my experiences at Dream Lab 2025",
+	description: "This website holds Shayne McGregor's work in technology",
 	author: {
-		name: "Your Name Here",
-		email: "youremailaddress@example.com",
+		name: "Shayne McGregor",
+		email: "shaynemcgregor1@gmail.com",
 		url: "https://example.com/about-me/"
 	}
 }
