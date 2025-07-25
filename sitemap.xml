@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+	
+	<url>
+		<loc>https://github.com/shayne-mcgregor-thoughtframe/blog/firstpost/</loc>
+		<lastmod>2025-05-20</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://github.com/shayne-mcgregor-thoughtframe/blog/secondpost/</loc>
+		<lastmod>2025-05-21</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://github.com/shayne-mcgregor-thoughtframe/blog/thirdpost/</loc>
+		<lastmod>2025-05-22</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://github.com/shayne-mcgregor-thoughtframe/blog/fourthpost/</loc>
+		<lastmod>2025-05-23</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://github.com/shayne-mcgregor-thoughtframe/about/</loc>
+		<lastmod>2025-07-25</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://github.com/shayne-mcgregor-thoughtframe/blog/</loc>
+		<lastmod>2025-07-25</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://github.com/shayne-mcgregor-thoughtframe/</loc>
+		<lastmod>2025-07-25</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://github.com/shayne-mcgregor-thoughtframe/tags/</loc>
+		<lastmod>2025-07-25</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://github.com/shayne-mcgregor-thoughtframe/feed/feed.xml</loc>
+		<lastmod>2025-07-25</lastmod>
+	</url>
+</urlset>
