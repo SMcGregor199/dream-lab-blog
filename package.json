@@ -1,21 +1,21 @@
 {
-	"name": "shayne-mcgregor-thoughtframe",
+	"name": "dream-lab-blog",
 	"version": "1.0.0",
 	"description": "This website holds Shayne McGregor's work in technology.",
 	"type": "module",
 	"scripts": {
 		"build": "npx @11ty/eleventy",
 		"build-nocolor": "cross-env NODE_DISABLE_COLORS=1 npx @11ty/eleventy",
-		"build-ghpages": "npx @11ty/eleventy --pathprefix=/shayne-mcgregor-thoughtframe/",
+		"build-ghpages": "npx @11ty/eleventy --pathprefix=/dream-lab-blog",/",
 		"start": "npx @11ty/eleventy --serve --quiet",
-		"start-ghpages": "npx @11ty/eleventy --pathprefix=/shayne-mcgregor-thoughtframe/ --serve --quiet",
+		"start-ghpages": "npx @11ty/eleventy --pathprefix=/dream-lab-blog",/ --serve --quiet",
 		"debug": "cross-env DEBUG=Eleventy* npx @11ty/eleventy",
 		"debugstart": "cross-env DEBUG=Eleventy* npx @11ty/eleventy --serve --quiet",
 		"benchmark": "cross-env DEBUG=Eleventy:Benchmark* npx @11ty/eleventy"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git://github.com/Makeademic/shayne-mcgregor-thoughtframe.git"
+		"url": "https://github.com/SMcGregor199/dream-lab-blog.git"
 	},
 	"author": {
 		"name": "Shayne McGregor",
@@ -27,7 +27,7 @@
 		"node": ">=18"
 	},
 	
-	"homepage": "https://github.com/makeademic/shayne-mcgregor-thoughtframe#readme",
+	"homepage": "https://github.com/SMcGregor199/dream-lab-blog#readme",
 	"devDependencies": {
 		"@11ty/eleventy": "^3.1.0",
 		"@11ty/eleventy-img": "^6.0.4",
